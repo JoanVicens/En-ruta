@@ -1,0 +1,17 @@
+Estació Intermodal,39.9897266,-0.0556183
+Passeig Morella/Parc Ribalta,39.9865569,-0.0492047
+Porta del Sol,39.9861952,-0.044763
+Av. Germans Bou (Pl. Jutge Borrull),39.9857472,-0.0391142
+Plaça Cardona Vives,39.9857472,-0.0391142
+Plaça Tetuan,39.9874621,-0.0430985
+Av. del Mar/Torreblanca,39.9848583,-0.0312754
+Av. del Mar/Columbretes,39.9846281,-0.0297358
+Av. del Mar/Recinte de Fires,39.9831201,-0.023868
+Av. del Mar/Autovia Port,39.9814922,-0.0152802
+Av. del Mar/Donación,39.9792936,-0.0075969
+Av. del Mar/Patos,39.9792936,-0.0075969
+Av. del Mar/Instituto,39.9753434,0.0045796
+Grau,39.9753434,0.0045796
+Pont del segle XXI,39.9921891,-0.0572903
+Raval Universitari,39.9913507,-0.0620324
+Universitat Jaume I,39.994657,-0.0702292

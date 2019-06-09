@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="logo_fosc">#008b4e</color>
+    <color name="logo_fosc_80_tranparecy">#80008b4e</color>
+    <color name="logo_mitja">#3cb872</color>
+    <color name="logo_clar_80_transparency">#953cb872</color>
+    <color name="logo_clar">#94d1b1</color>
+    <color name="puto_blanc">#ffffff</color>
+    <color name="gris_transparent">#75eeeeee</color>
+    <color name="puto_transparent">#00000000</color>
+    <color name="complementari_logo_fosc">#8b003c</color>
+</resources>

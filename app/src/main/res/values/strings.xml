@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">En ruta</string>
+    <string name="title_activity_maps">Rutes cicliestes</string>
+
+    <!-- menu toolbar -->
+    <string name="navigation_drawer_open">Obrir opcions</string>
+    <string name="navigation_drawer_clase">Tancar opcions</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="iv_fragment_estacio">image vectorial estacio</string>
+    <string name="tv_fragment_nom">Nom:</string>
+    <string name="tv_fragment_ocupacio">Ocupació:</string>
+    <string name="tv_fragment_labelbtn">Afegir punt</string>
+    <string name="btn_maps_calculate">calcular ruta</string>
+    <string name="btn_menu">Menú principal</string>
+
+    <string name="opt_header">Opcions</string>
+
+    <string name="tv_maps_to"><![CDATA[>]]></string>
+    <string name="googleDirectionsApiKey">AIzaSyDG9EQm8f1Eh1P86FFmi6CFjt8LRx1A7Cw</string>
+    <string name="MQ_API_KEY">KVxAkokKwkj6BKqwfAoXigIEAocuwZOm</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="satelit_opt">Mostrar vista satèl·lit</string>
+    <string name="bases_opt">Mostrar bases bicicas</string>
+    <string name="title_activity_selector_ocupacio">selector_ocupacio</string>
+    <string name="nav_item_min_ocupacio">Ocupació mínima</string>
+    <string name="titul_tv_selector">Selecciona la ocupació mínima</string>
+    <string name="explicacio_tv_selector">Mínim de bicies en la base per afegir-la a la ruta</string>
+    <string name="btn_ocupacio_save">Guardar</string>
+    <string name="title_activity_llistat_bases">Llistat_bases</string>
+    <string name="switch_nav_bici">Bici pròpia</string>
+    <string name="switch_nav_tram">Mostrar estacions de Tram</string>
+    <string name="switch_nav_carrils">Mostrar carrils bici</string>
+    <string name="tv_detall_n_base">Nº de la base</string>
+    <string name="tv_detall_ocupacio">Ocupació</string>
+    <string name="instruccions_llista">Mostra totes les bases de Bicicas i la seva ocupació</string>
+    <string name="instruccions_gps">Activa la localització GPS i permet afegir la teva posció actual</string>
+    <string name="instruccions_back">Presiona per borrar els punts, manté presionat per a borrar les rutes</string>
+    <string name="nav_item_instruccions">Informació dels controls</string>
+    <string name="instruccions_text_mostra">HOSPITAL GENERAL</string>
+    <string name="instruccions_punts">Punts d\'origen i destí</string>
+    <string name="instruccions_opciones">Opcions de l\'aplicació</string>
+</resources>
